@@ -11,8 +11,7 @@ Heartbeat is an interactive art project translating heartbeat into RGB light-emi
 * Mac OS 10.+ 
 * Arduino 1.8.1 https://www.arduino.cc/en/main/software
 * Teensyduino 1.35 a software add-on for Arduino https://www.pjrc.com/teensy/teensyduino.html
-* https://github.com/FastLED/FastLED/wiki
 
-## Useful Tutorials
+## Useful Links
 * 28048-Polar-HeartRate-Receiver-KickStart http://learn.parallax.com/KickStart
-
+* https://github.com/FastLED/FastLED/wiki
