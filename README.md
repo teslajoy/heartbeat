@@ -15,3 +15,6 @@ Heartbeat is an interactive art project translating heartbeat into RGB light-emi
 ## Useful Links
 * 28048-Polar-HeartRate-Receiver-KickStart http://learn.parallax.com/KickStart
 * https://github.com/FastLED/FastLED/wiki
+
+### low-poly heart mesh prototype for 3D printing shell 
+![alt text](https://github.com/teslajoy/heartbeat/blob/master/img/autodesk-prototype.png)
